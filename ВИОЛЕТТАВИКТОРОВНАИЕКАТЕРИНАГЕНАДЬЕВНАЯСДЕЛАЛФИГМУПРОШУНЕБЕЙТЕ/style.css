@@ -1,0 +1,123 @@
+body {
+	background-color: 	#100e0d;
+	margin: 0;
+}
+
+.header{
+	margin-top: 54px;
+	width: 100%;
+    z-index: 100;
+}
+
+.header__inner {
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 87px 0;
+}
+
+.nav {
+	font-size: 18px;
+	text-transform: uppercase;
+	margin: 15px;
+	padding-right: 35px;
+}
+
+.nav__link {
+	color: #fff;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 15px;
+    position: relative;
+
+	text-decoration: none;
+}
+
+
+
+
+
+.hero_wr {
+padding-top: 234px;
+}
+
+.editor1 {
+	font-family: 'Nympha Trial';
+font-style: normal;
+font-weight: 400;
+font-size: 220px;
+line-height: 259px;
+text-align: center;
+color: #FFFFFF;
+
+border: 1px solid #FFFFFF;
+top: 100px;
+position: relative;
+}
+
+.hero_wr_png {
+
+	padding-right: 87px;
+	padding-left: 87px;
+	height: 844px;
+}
+
+.hero_wr_png img {
+
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+
+
+
+
+.info_wr{
+	padding-top: 93px;
+}
+
+.info_wr_line {
+	display: flex;
+	justify-content: center;
+	gap: 87px;
+}
+
+.info_wr_elem1 {
+	font-family: 'DM Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+color: #D6D0CE;
+text-align: center;
+opacity: 0.7;
+}
+
+.info_wr_elem2 {
+	font-family: 'Nympha Trial';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+text-align: center;
+color: #D6D0CE;
+}
+
+
+
+
+.picture2 {
+	padding-top: 287px;
+	padding-left: 87px;
+	padding-right: 323px;
+	height: 707px;
+}
+
+.picture2 img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;	
+}
+
+
+
